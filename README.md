@@ -5,6 +5,8 @@
 
 The project aims to reconstruct the original sentence from a sequence of randomly permuted words of an English sentence.
 
+Two different approaches are shown: one using a single Transformer Block, and another one using a Double Transformer Structure.
+
 ### Key Features and Constraints:
 Input: A sequence of words corresponding to a random permutation of a given English sentence.
 

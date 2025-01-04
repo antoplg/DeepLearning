@@ -41,7 +41,3 @@ Training the model involved several carefully chosen techniques. The categorical
 
 Evaluation metrics for the project included accuracy, parameter efficiency, and qualitative analysis of reconstructed sentences. The model's ability to generate coherent sentences demonstrated its effectiveness, although challenges emerged with longer and more complex sentences. The absence of postprocessing techniques meant that the model's outputs were entirely raw, which occasionally led to minor inaccuracies.
 
-### Conclusion
-
-In conclusion, this project represents a thoughtful and innovative approach to solving the problem of sentence reconstruction within strict academic constraints. By designing efficient neural networks tailored to the task, Antonio Rapallini has demonstrated a deep understanding of deep learning principles and their practical applications. The work sets a solid foundation for further exploration in the field of low-resource neural language processing, offering valuable insights for future research and development.
-
